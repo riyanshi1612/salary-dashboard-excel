@@ -1,3 +1,4 @@
+![Dashboard Preview](screenshot.png)
  📊 Employee Salary Analytics Dashboard
 
 Excel • PivotTables • PivotCharts • Data Visualization
